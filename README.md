@@ -49,9 +49,10 @@ writeup/
   problem, including abstract, problem overview, literature review, methodology, experiment
   results, model analysis, appendices, and references.
   
-model/   LP implementation
+model/
   - AppendixE_HNL_scheduling_LP.py: contains the code developed to execute this optimization      problem and develop cost-effective route scheduling across peak-hours and grey-zone
     departure times.
+  - AppendixF_HNL_scheduled_flights.xlsx: contains the final optimized fleet schedule.
     
 data/
   - AppendixData_HNL_arrivals_20250226.xlsx: contains data from the Bureau of Transportation
