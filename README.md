@@ -48,9 +48,11 @@ writeup/
 - hnl_fleet_assignment_report.pdf: contains the extended write-up of this optimization
   problem, including abstract, problem overview, literature review, methodology, experiment
   results, model analysis, appendices, and references.
+  
 model/   LP implementation
   - AppendixE_HNL_scheduling_LP.py: contains the code developed to execute this optimization      problem and develop cost-effective route scheduling across peak-hours and grey-zone
     departure times.
+    
 data/
   - AppendixData_HNL_arrivals_20250226.xlsx: contains data from the Bureau of Transportation
     Statistics detailing arrivals at HNL airport on Hawaiian Airlines on Feb 26, 2025.
